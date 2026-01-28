@@ -114,6 +114,7 @@ TotalPlay | 4814
 ### Cine
 Comercio | MCC | Nota
 -------- | --- | ----
+Cinemex | 7832
 Cinépolis | 7832
 Cinépolis Dulcería | 7832
 Cinepolis App | 7832
@@ -121,6 +122,7 @@ Cinepolis App | 7832
 ### Comida rápida
 Comercio | MCC | Nota
 -------- | --- | ----
+Boston's Pizza | 5814 | Chihuahua
 Burger king | 5814
 Cielito querido café | 5814
 Domino's Pizza | 5814
