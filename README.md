@@ -131,6 +131,7 @@ Garabatos | 5814
 IHOP | 5814
 KFC | ?
 Little caesars | 5814
+Mozao Cafe | 5814 | Chihuahua
 Nikkori Andenes Hermosillo | 5814 | Restaurante Comida Japonesa. TPV Banco Sabadell
 Pizza hut | 5814 | Web y tienda física
 Six flags | 5814 | Agua
@@ -296,6 +297,7 @@ Hooters | 5812
 Italiannis | ?
 La buena tierra | 5811
 Las Brasas | 5812
+Pizzeria la Sierra | 5812 | Chihuahua
 Pollo Feliz Apodaca | 5812
 Rancho el 17 | 5422 | Taste Boutique de Carnes, Hermosillo, Sonora. Terminal Adyen
 Taquería Arandas | ?
