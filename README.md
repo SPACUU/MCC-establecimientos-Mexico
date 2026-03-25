@@ -297,6 +297,7 @@ Gua Guaus | 5995 | Hermosillo Pitic
 Comercio | MCC | Nota
 -------- | --- | ----
 Barril 23 | ?
+Bernardi Café | 5812 | Chihuahua
 Bisquets Obregón | 5812
 Café Kowlaan | ?
 Casa de Toño | 5812
